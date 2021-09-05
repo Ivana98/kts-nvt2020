@@ -1,7 +1,14 @@
 # kts-nvt
+Projekat iz predmeta Konstrukcija i testiranje softvera i Napredne veb tehnologije
 
-[Low fidelity prototype](https://balsamiq.cloud/s2ntpg/p2izoaj/r795F)
+## Članovi tima
 
-[Dijagram klasa](class_diagram_v2.png)
+* Bojan Popržen  
+* Ivana Marošević  
+* Milan Đurić  
+* ~~Mijat Miletić~~ (*odustao od projekta*)  
 
-[Postman](https://grey-star-7595.postman.co/workspace/a807f61f-89ac-4f2f-8dd2-2376d345b7d7/overview)
+## Dodatne informacije
+
+* Angular aplikacija je razvijana prateći [Angular coding style guide](https://angular.io/guide/styleguide). 
+* Jedinični, integracioni i end-to-end testovi za Spring Boot aplikaciju se nalaze [ovde](https://github.com/Ivana98/kts-nvt2020/tree/main/cultural-offerings/src/test/java/ftn/ktsnvt/culturalofferings).
